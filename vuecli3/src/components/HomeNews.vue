@@ -1,13 +1,13 @@
 <template>
-  <div>我是about
-    <p>哈哈哈</p>
+  <div>
+    <div>hahh</div>
+    <div>hha</div>
   </div>
-
 </template>
 
 <script>
 export default {
-  name: "About"
+  name: "HomeNews"
 }
 </script>
 
